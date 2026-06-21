@@ -93,15 +93,15 @@
                           h4.card-title.text-center.mb-4 Inteligencia artificial (IA)
                           p Permite personalizar la experiencia del usuario mediante recomendaciones automatizadas.
                         .bg-color-18.tarjeta.p-4.h-100.shadow-app.text-center.bordes.d-flex.flex-column.align-items-center
-                          img(src='@/assets/curso/temas/t2/tarjeta02_1.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
+                          img(src='@/assets/curso/temas/t2/tarjeta02_2.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
                           h4.card-title.text-center.mb-4 <i>Big Data</i>
                           p Facilita el análisis de grandes volúmenes de información para la toma de decisiones.
                         .bg-color-18.tarjeta.p-4.h-100.shadow-app.text-center.bordes.d-flex.flex-column.align-items-center
-                          img(src='@/assets/curso/temas/t2/tarjeta02_1.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
+                          img(src='@/assets/curso/temas/t2/tarjeta02_3.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
                           h4.card-title.text-center.mb-4 SEO y SEM
                           p Estrategias para posicionar productos en motores de búsqueda.
                         .bg-color-18.tarjeta.p-4.h-100.shadow-app.text-center.bordes.d-flex.flex-column.align-items-center
-                          img(src='@/assets/curso/temas/t2/tarjeta02_1.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
+                          img(src='@/assets/curso/temas/t2/tarjeta02_4.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
                           h4.card-title.text-center.mb-4 Automatización del <i>marketing</i>
                           p Permite enviar contenido personalizado a los usuarios de manera automática.
                     .col-lg-3.order-lg-2.d-none.d-lg-block
@@ -121,7 +121,7 @@
             .row.align-items-center
               .col-md-5
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_1.png')
+                  img(src='@/assets/curso/temas/t2/tarjeta03_1.png')
               .col-md-6.mb-4.mb-md-0
                 h4 ¿Qué aportan las TIC?
                 p Las TIC impulsan el desarrollo de los negocios electrónicos al facilitar la digitalización de procesos empresariales. Permiten automatizar tareas, gestionar información de manera eficiente y mejorar la comunicación interna y externa de las organizaciones.
@@ -129,7 +129,7 @@
             .row.align-items-center
               .col-md-5.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_2.png')
+                  img(src='@/assets/curso/temas/t2/tarjeta03_2.png')
               .col-md-6
                 h4 Beneficios para la empresa
                 p El uso de tecnologías digitales contribuye a mejorar la eficiencia operativa, reducir costos, fortalecer la competitividad y apoyar la toma de decisiones con información precisa y actualizada.
@@ -137,7 +137,7 @@
             .row.align-items-center
               .col-md-5.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_3.png')
+                  img(src='@/assets/curso/temas/t2/tarjeta03_3.png')
               .col-md-6
                 h4 Innovación y nuevos modelos de negocio
                 p Las TIC favorecen la creación de servicios en línea, plataformas colaborativas y soluciones digitales que responden a las necesidades del mercado y generan nuevas oportunidades empresariales.
@@ -145,7 +145,7 @@
             .row.align-items-center
               .col-md-5.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_3.png')
+                  img(src='@/assets/curso/temas/t2/tarjeta03_4.png')
               .col-md-6
                 h4 Adaptación organizacional
                 p Para aprovechar las TIC, las empresas deben capacitar al talento humano, invertir en infraestructura tecnológica e integrar la tecnología en sus procesos estratégicos, administrativos y operativos.
@@ -153,7 +153,7 @@
             .row.align-items-center
               .col-md-5.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_4.png')
+                  img(src='@/assets/curso/temas/t2/tarjeta03_5.png')
               .col-md-6
                 h4 Aplicación en áreas empresariales                
                 ul.lista-ul.color-vinotinto-custom.mb-0
@@ -169,6 +169,35 @@
                   li.d-flex
                     i.fas.fa-circle-right.me-3
                     span <b>Área logística:</b> optimización de procesos de distribución mediante sistemas tecnológicos.
+      p(data-aos="fade-left") El uso integrado de estas tecnologías permite mejorar la eficiencia y competitividad de las organizaciones.                    
+      Separador
+      //- Inicio Tema2.4
+      .row
+        #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2 2.4 Transformación digital en las organizaciones
+      p(data-aos="fade-left") La transformación digital es un proceso mediante el cual las organizaciones integran tecnologías digitales en todas sus áreas. Por su importancia, le invitamos a reproducir el siguiente pódcast que abordará este tema como un proceso estratégico.
+      //- Inicio Podcast
+      .container-fluid.tarjeta.tarjeta--blanca.px-0.mb-2(data-aos="fade-left")
+        .row.g-0.align-items-stretch
+          .col-12.col-lg-7.mb-3.mb-lg-0.d-flex
+            .p-4.p-md-5.bg-custom-dark-teal.w-100.rounded-4.d-flex.align-items-center
+              .row.g-3.align-items-center.w-100
+                .col-md-5.text-center.mb-4.mb-md-0
+                  img.img-fluid(src="@/assets/curso/temas/bg/podcast.svg" style="max-width: 200px;")
+                .col-md-7.ps-md-4
+                  h2.mb-3.fw-bold(style="color:#efef49") Pódcast
+                  .tarjeta.bg-white.p-3.shadow-sm.border-lemon
+                    h5.mb-3.fw-bold Digitalizar para transformar
+                    TarjetaAudio.color-primario(
+                      texto="" 
+                      :audio="obtainAudioPath"
+                      @audio-hover="mostrarIndicadorTarjetaAudio = false"
+                    )
+                      .indicador--click(v-if="mostrarIndicadorTarjetaAudio")                      
+          .col-12.col-lg-5.d-flex.ps-lg-4
+            figure.mb-0.w-100
+              img.h-100.w-100(src='@/assets/curso/temas/t2/img4.png' alt='' style="object-fit: cover;")
+      //- Fin Podcast
 </template>
 
 <script>
