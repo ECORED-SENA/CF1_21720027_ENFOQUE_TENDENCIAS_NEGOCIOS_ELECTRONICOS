@@ -84,6 +84,8 @@ figcaption
     background-color: #fff
   &-5
     background-color: #fff5e6
+  &-6
+    background-color: #ffecd0
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/
@@ -326,3 +328,26 @@ figcaption
 /*Fin Audio*/
 
 
+
+/* Código para los subtítulos que tienen imagenes */
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+
+.titulo-con-imagen__fondo
+  background-color: $color-acento-contenido
+  border-radius: 10px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
+
+.titulo-con-imagen__imagen
+  position: absolute
+  left: -20px
+  width: 50px
+
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 20px
+/* Fin Código para los subtítulos que tienen imagenes */
