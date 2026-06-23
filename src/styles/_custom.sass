@@ -277,6 +277,60 @@ figcaption
   top: 35%
 /*Slideshows*/
 
+
+.tarjeta-codigo
+  border-radius: 10px
+  overflow: hidden
+  position: relative
+  padding-top: 3rem
+  &:before
+    position: absolute
+    content: ''
+    height: 55px
+    background-color: #3a1d71
+    width: 100%
+    top: 0
+    left: 0
+  &:after
+    position: absolute
+    content: url('../assets/curso/temas/botones.svg')
+    top: 0
+    left: 0
+    transform: translate(20px, 20px)
+
+.hr--line
+  margin: 1rem 0
+  width: 100%
+  height: 1px  
+  background-color: #B0C0D2
+.bg--gradientBlue        
+  background: linear-gradient(0deg, rgba(215,236,252,1) 0%, rgba(239,246,252,1) 100%)
+.no-pointer 
+  .tarjeta--boton
+    cursor: initial !important
+.cursor-pointer
+  .crd_hover_txt, .tarjeta-foto-hover, .nav-holder, .content-card4
+    cursor: pointer    
+
+.dialogo.color-primario .dialogo__words__word
+  color: #3c7792 !important
+
+.circl-arrow .slyder-f__btn i
+    font-size: 1.2rem
+    background-color: #FF4A69
+    //background-color: $color-acento-contenido
+    //color: $white
+    height: 46px
+    width: 46px
+    padding: 5px
+    border-radius: 500px
+    display: flex
+    justify-content: center
+    align-items: center
+
+
+
+
 // Accordeon pasos
 .linea-tiempo-d__item__content.tarjeta.tarjeta--gris, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
   background-color: #FFF !important
@@ -390,3 +444,5 @@ figcaption
   .titulo-con-imagen__texto
     padding-left: 0   
 /* Fin Código para los subtítulos que tienen imagenes */
+
+  
