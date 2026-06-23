@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Nombre del recurso educativo',
     Description: 'Descripción del RED',
-    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.svg',
+    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
       {
@@ -12,6 +12,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
         imagen: '@/assets/curso/portada/banner-principal-decorativo-2.svg',
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-3.svg',
       },
     ],
   },

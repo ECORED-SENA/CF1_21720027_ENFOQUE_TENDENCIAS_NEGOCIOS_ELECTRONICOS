@@ -29,19 +29,19 @@
                       ul.lista-ul.color-vinotinto-custom.mb-0
                         li.d-flex
                           i.fas.fa-circle-right.me-3
-                          span Servidores web y de aplicaciones.
+                          span Servidores web y de aplicaciones
                         li.d-flex
                           i.fas.fa-circle-right.me-3
-                          span Bases de datos.
+                          span Bases de datos
                         li.d-flex
                           i.fas.fa-circle-right.me-3
-                          span Sistemas operativos.
+                          span Sistemas operativos
                         li.d-flex
                           i.fas.fa-circle-right.me-3
-                          span Redes de comunicación.
+                          span Redes de comunicación
                         li.d-flex
                           i.fas.fa-circle-right.me-3
-                          span Servicios de <i>hosting.</i>
+                          span Servicios de <i>hosting</i>
               .col-12.col-sm-9.col-md-6.col-lg-5.mb-4.d-flex.flex-column
                 .tarjeta.rounded-3.h-100.bg-white.border.overflow-hidden.shadow
                   figure.mb-0
