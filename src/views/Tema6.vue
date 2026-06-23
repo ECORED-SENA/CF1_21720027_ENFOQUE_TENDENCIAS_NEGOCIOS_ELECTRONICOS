@@ -74,7 +74,7 @@
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
-                  img(src="@/assets/curso/temas/t6/tarjeta01_1.png")
+                  img(src="@/assets/curso/temas/t6/tarjeta01_2.png")
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Ejemplo aplicado
                 p Una empresa que vende productos en línea puede atender clientes en diferentes ciudades sin necesidad de abrir sucursales físicas, reduciendo costos y aumentando su cobertura.
@@ -82,7 +82,7 @@
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
-                  img(src="@/assets/curso/temas/t6/tarjeta01_2.png")
+                  img(src="@/assets/curso/temas/t6/tarjeta01_3.png")
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Indicadores de rendimiento empresarial
                 p Las ventajas para las empresas pueden medirse mediante indicadores como:
@@ -205,7 +205,7 @@
                       h4.card-title.text-center.mb-4 Ejemplo aplicado
                       p Una empresa utiliza datos de sus clientes para ofrecer productos personalizados, aumentando la probabilidad de compra y fidelización.                      
                       p Estas ventajas permiten a las organizaciones diferenciarse de la competencia y responder de manera eficiente a las necesidades del mercado.
-                //- Fin Tarjetas      
+                //- Fin Tarjetas
       .bg-full-width.mt-5
         .px-4.px-md-5.pb-md-3
           .titulo-con-imagen.mb-5(data-aos="fade-right")

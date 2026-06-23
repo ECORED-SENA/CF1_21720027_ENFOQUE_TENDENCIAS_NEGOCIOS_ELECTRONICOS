@@ -127,7 +127,7 @@
             ul.lista-ul.color-vinotinto-custom.mb-0
               li.d-flex
                 i.fas.fa-circle-right.me-3
-                span Número de visitas (tráfico web)
+                span Número de visitas (tráfico <i>web</i>)
               li.d-flex
                 i.fas.fa-circle-right.me-3
                 span Tasa de conversión
