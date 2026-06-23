@@ -371,10 +371,6 @@
             .flex-grow-1.text-center.text-lg-start              
               h4 Asignación eficiente de recursos:
               p La correcta distribución de recursos permite optimizar la operación y mejorar la rentabilidad del negocio.
-
-
-
-
 </template>
 
 <script>
