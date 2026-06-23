@@ -336,6 +336,18 @@ figcaption
 /*Fin Audio*/
 
 
+.lista-ol--cuadro__vineta span
+  color: black
+
+.tarjeta-respuesta
+  background-color: #d8ecff !important
+
+.creditos-vista .tarjeta.credito, .footer
+  background-color: #d2e1f1 !important
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner_interno.png") !important
+
 
 /* Código para los subtítulos que tienen imagenes */
 .titulo-con-imagen
@@ -358,16 +370,23 @@ figcaption
 .titulo-con-imagen__texto
   margin: 0
   padding-left: 20px
+
+@media (max-width: 768px)
+  .titulo-con-imagen
+    position: relative
+    width: 100%
+
+  .titulo-con-imagen__fondo
+    display: inline-flex
+    padding: 10px 15px
+    gap: 12px          
+    max-width: 100%
+
+  .titulo-con-imagen__imagen
+    position: static   
+    width: 40px       
+    flex-shrink: 0    
+
+  .titulo-con-imagen__texto
+    padding-left: 0   
 /* Fin Código para los subtítulos que tienen imagenes */
-
-.lista-ol--cuadro__vineta span
-  color: black
-
-.tarjeta-respuesta
-  background-color: #d8ecff !important
-
-.creditos-vista .tarjeta.credito, .footer
-  background-color: #d2e1f1 !important
-
-.banner-interno__fondo
-  background-image: url("../assets/curso/portada/banner_interno.png") !important
