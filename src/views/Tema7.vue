@@ -132,7 +132,7 @@
                       h4.card-title.text-center.mb-4 Ejemplo aplicado
                       p Una empresa analiza qué productos tienen mayor demanda en internet y qué estrategias utilizan sus competidores para posicionarse.
                       p Este análisis permite definir estrategias más efectivas y reducir riesgos en la implementación del negocio.
-                //- Fin Tarjetas      
+                //- Fin Tarjetas
       //- Título con imagen
       .bg-full-width.mt-5
         .px-4.px-md-5.pb-md-3

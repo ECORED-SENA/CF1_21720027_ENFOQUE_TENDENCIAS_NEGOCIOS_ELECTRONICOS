@@ -2,11 +2,17 @@
   .curso-main-container.pb-3
     BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum.
+      .row.mb-5
+        .col-12.ps-3(style="border-left: 10px solid #39A900;") 
+          h3.mb-1 Enfoque y tendencias de los negocios electrónicos
+          p.mb-0 
+            | Síntesis:             
+            | Fundamentos y requerimientos del negocio electrónico.
+      p.mt-5 A continuación, se presenta una síntesis de la temática estudiada por el componente formativo.
       .row.justify-content-center
         .col-lg-10.mb-5.bgs.p-4.brad
           figure
-            img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+            img(src="@/assets/curso/sintesis.svg", alt="Diagrama La que presenta la estructura temática del componente Fundamentos y requerimientos del negocio electrónico, organizada en capítulos y subtemas relacionados con el comercio electrónico, los negocios digitales y su implementación. En ella se abordan aspectos como la conceptualización del comercio electrónico, los modelos de negocio digital, los elementos que lo conforman, el entorno digital, las ventajas, el estudio de mercado, los requerimientos técnicos y organizacionales, los procesos de implementación y la generación de valor agregado. En conjunto, el esquema permite visualizar de manera ordenada los contenidos necesarios para comprender, planificar y desarrollar negocios electrónicos competitivos en el entorno digital.")
         .col-auto
           a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
             .anexo__icono

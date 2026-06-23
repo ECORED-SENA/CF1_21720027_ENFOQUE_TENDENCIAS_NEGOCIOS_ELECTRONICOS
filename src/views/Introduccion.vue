@@ -9,7 +9,7 @@
         h1 Introducción
       .row.justify-content-center.align-items-stretch.mb-4
         .col-11.col-md-12.col-lg-8.order-2.order-lg-1(data-aos="fade-right")
-          .bg-color-7.rounded-3.overflow-hidden.h-100
+          .rounded-3.overflow-hidden.h-100
             .row.align-items-stretch.h-100
               p El avance de las Tecnologías de la Información y la Comunicación (TIC) ha transformado la forma en que las organizaciones desarrollan sus actividades comerciales, creando nuevos escenarios de interacción entre empresas y consumidores. En este contexto, el comercio y los negocios electrónicos se consolidan como pilares de la economía digital, al permitir ampliar mercados, optimizar procesos y fortalecer la competitividad organizacional.
               .col-12.col-md-6.d-flex
@@ -22,9 +22,6 @@
         .col-8.col-sm-6.col-md-4.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0.d-flex.align-items-center.justify-content-center(data-aos="zoom-in")
           figure.mb-0.w-100.text-center
             img.img-fluid(src="@/assets/curso/temas/intro/img1.png", alt="", style="width: 500px;")
-
-
-
 </template>
 
 <script>

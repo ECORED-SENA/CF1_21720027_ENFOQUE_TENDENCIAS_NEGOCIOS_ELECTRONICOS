@@ -136,7 +136,7 @@
                 span Tiempo de permanencia en la página
               li.d-flex
                 i.fas.fa-circle-right.me-3
-                span Porcentaje de rebote              
+                span Porcentaje de rebote
       p(data-aos="fade-left") El análisis de estas métricas permite evaluar el rendimiento de las estrategias digitales y tomar decisiones para su optimización.      
       Separador
       //- Inicio Tema5.3

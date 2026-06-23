@@ -1,7 +1,8 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
+    Name: 'Fundamentos y requerimientos del negocio electrónico',
+    Description:
+      'Este componente aborda los fundamentos del comercio y negocio electrónico, analizando su importancia, características y beneficios en el entorno digital. Asimismo, permite identificar los requerimientos necesarios para la implementación de un negocio electrónico, teniendo en cuenta el estudio de mercado, las políticas organizacionales y las oportunidades del entorno.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [

@@ -175,7 +175,7 @@
         .row.justify-content-center
           .col-lg-3 
             figure(data-aos="zoom-in")
-              img(src="@/assets/curso/temas/t10/img1.png", alt="").img400.m-auto
+              img(src="@/assets/curso/temas/t10/img3.png", alt="").img400.m-auto
           .col-lg-9
             AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
               .row(titulo="Aplicabilidad")                  
