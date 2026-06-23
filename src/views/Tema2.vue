@@ -190,7 +190,7 @@
                     h5.mb-3.fw-bold Digitalizar para transformar
                     TarjetaAudio.color-primario(
                       texto="" 
-                      :audio="obtainAudioPath"
+                      :audio="podcast1"
                       @audio-hover="mostrarIndicadorTarjetaAudio = false"
                     )
                       .indicador--click(v-if="mostrarIndicadorTarjetaAudio")                      
@@ -201,10 +201,12 @@
 </template>
 
 <script>
+import podcast1 from '@/assets/curso/temas/audio/podcast.mp3'
 export default {
   name: 'Tema2',
   data: () => ({
-    // variables de vue
+    podcast1,
+    mostrarIndicadorTarjetaAudio: true,
   }),
   mounted() {
     this.$nextTick(() => {
