@@ -89,7 +89,8 @@ export default {
         },
         {
           id: 3,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Cuál es la diferencia principal entre comercio y negocio electrónico?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [

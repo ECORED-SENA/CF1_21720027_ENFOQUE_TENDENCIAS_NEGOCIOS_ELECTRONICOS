@@ -388,13 +388,110 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Análisis de mercado',
+      significado:
+        'Proceso de recolección y evaluación de información sobre consumidores, competencia y tendencias para apoyar la toma de decisiones comerciales.',
+    },
+    {
+      termino: 'Comercio electrónico',
+      significado:
+        'Realización de transacciones de compra y venta de productos o servicios a través de internet y plataformas digitales.',
+    },
+    {
+      termino: 'Consumidor digital',
+      significado:
+        'Usuario que utiliza medios tecnológicos para buscar información, comparar opciones y realizar compras en línea.',
+    },
+    {
+      termino: 'E-business (negocio electrónico)',
+      significado:
+        'Modelo empresarial que integra tecnologías digitales en los procesos organizacionales, comerciales y administrativos.',
+    },
+    {
+      termino: 'Entorno digital',
+      significado:
+        'Espacio virtual conformado por plataformas, herramientas tecnológicas y canales de comunicación utilizados en internet.',
+    },
+    {
+      termino: 'Infraestructura tecnológica',
+      significado:
+        'Conjunto de recursos físicos y digitales que soportan el funcionamiento de un negocio electrónico.',
+    },
+    {
+      termino: 'Marketplace',
+      significado:
+        'Plataforma digital que conecta compradores y vendedores en un mismo entorno virtual.',
+    },
+    {
+      termino: 'Modelo B2B',
+      significado:
+        'Modelo de comercio electrónico en el que las transacciones se realizan entre empresas.',
+    },
+    {
+      termino: 'Modelo B2C',
+      significado:
+        'Modelo de comercio electrónico en el que una empresa vende productos o servicios directamente al consumidor final.',
+    },
+    {
+      termino: 'Pasarela de pago',
+      significado:
+        'Herramienta tecnológica que permite procesar pagos electrónicos de forma segura.',
+    },
+    {
+      termino: 'Plataforma digital',
+      significado:
+        'Entorno tecnológico utilizado para desarrollar actividades comerciales, promocionales o de interacción en línea.',
+    },
+    {
+      termino: 'SEO',
+      significado:
+        'Estrategia de optimización utilizada para mejorar el posicionamiento de un sitio web en motores de búsqueda.',
+    },
+    {
+      termino: 'Transformación digital',
+      significado:
+        'Proceso de incorporación de tecnologías digitales en las diferentes áreas de una organización para optimizar su funcionamiento.',
+    },
+    {
+      termino: 'Valor agregado',
+      significado:
+        'Conjunto de características o beneficios adicionales que diferencian un producto o servicio en el mercado digital.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Cardozo, N. (2025, abril 18). Análisis DOFA: Qué es, cómo se hace y por qué es importante para el éxito de tu negocio. DaTum. ',
+      link: 'https://datumdigitalmarketing.com/noticias/dofa-foda-swot-que-es-como-se-hace-por-que-es-importante',
+    },
+    {
+      referencia:
+        'Coursera. (2023, noviembre 29). Análisis de mercado: Qué es y cómo hacerlo. Coursera. ',
+      link: 'https://www.coursera.org/mx/articles/market-analysis',
+    },
+    {
+      referencia:
+        'Haim, I. (2025, noviembre 25). ¿Qué es el comercio electrónico? Definición, tipos, historia y ejemplos. Elementor.',
+      link: 'https://elementor.com/blog/es/que-es-el-comercio-electronico-definicion-tipos-historia-y-ejemplos/',
+    },
+    {
+      referencia:
+        'Laudon, K. C., & Traver, C. G. (2022). E-commerce 2022: Business, technology, society (18.ª ed.). Pearson.',
+      link: '',
+    },
+    {
+      referencia:
+        'Osterwalder, A., & Pigneur, Y. (2011). Generación de modelos de negocio. Deusto.',
+      link: '',
+    },
+    {
+      referencia:
+        'Universidad Europea. (2023, noviembre 21). E-business: ¿Qué es y para qué sirve? ',
+      link: 'https://universidadeuropea.com/blog/e-business/',
+    },
+    {
+      referencia:
+        'Turban, E., King, D., Lee, J., Liang, T. P., & Turban, D. (2018). Electronic commerce: A managerial and social networks perspective (9.ª ed.). Springer.',
       link: '',
     },
   ],
