@@ -47,7 +47,7 @@
                         figure
                           img(src='@/assets/curso/temas/t8/img1.png', style="width: 450px", data-aos="zoom-in").m-auto            
                 p(data-aos="fade-left") Esta clasificación permite organizar de manera estructurada los elementos necesarios para la implementación del negocio electrónico.            
-      Separador
+            Separador
       //- Inicio Tema8.2
       .row
         #t_8_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -86,7 +86,7 @@
                   img(src='@/assets/curso/temas/t8/tarjeta02_2.png')
               .col-md-6
                 h4 Ejemplo aplicado
-                p Una empresa que desea implementar una tienda virtual debe contar con un sitio web funcional, una base de datos para gestionar productos y clientes, y un sistema de pago que permita realizar transacciones seguras.
+                p Una empresa que desea implementar una tienda virtual debe contar con un sitio <i>web</i> funcional, una base de datos para gestionar productos y clientes, y un sistema de pago que permita realizar transacciones seguras.
       .row.mb-5.justify-content-center.align-items-stretch(data-aos="fade-left")
         .col-12.col-sm-9.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0.d-flex.align-items-center(data-aos="fade-left")
           figure.mb-0.w-100.text-center
@@ -189,7 +189,7 @@
                           i.fas.fa-circle-right.me-3
                           span Mejorar la eficiencia operativa
                 //- Fin Tarjetas
-      p(data-aos="fade-right") Las organizaciones deben contar con personal capacitado en herramientas digitales, marketing y gestión tecnológica para garantizar el éxito del negocio.                
+      p(data-aos="fade-right") Las organizaciones deben contar con personal capacitado en herramientas digitales, <i>marketing</i> y gestión tecnológica para garantizar el éxito del negocio.                
       Separador
       //- Inicio Tema8.4
       .row

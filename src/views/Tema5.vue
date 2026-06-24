@@ -31,7 +31,7 @@
                   p <b>Ejemplo:</b> anuncios que aparecen mientras el usuario navega en internet o utiliza aplicaciones.
               .row(titulo="Herramientas de analítica digital")
                   p Permiten recopilar y analizar datos sobre el comportamiento de los usuarios en plataformas digitales.
-                  p <b>Ejemplo:</b> medir cuántas personas visitan una página web y qué productos consultan.
+                  p <b>Ejemplo:</b> medir cuántas personas visitan una página <i>web</i> y qué productos consultan.
               .row(titulo="Plataformas de contenido digital")
                   p Facilitan la creación y difusión de contenido que atrae y retiene a los usuarios.
                   p <b>Ejemplo:</b> blogs, videos o publicaciones informativas relacionadas con productos o servicios.
@@ -54,7 +54,7 @@
                   img(src='@/assets/curso/temas/t5/tarjeta01_2.png')
               .col-md-6.mb-4.mb-md-0
                 h4 SEO (<i>Search Engine Optimization</i>)
-                p Permite mejorar la visibilidad de un sitio web en los resultados orgánicos de los motores de búsqueda mediante el uso de palabras clave, optimización de contenido y estructura web.                
+                p Permite mejorar la visibilidad de un sitio <i>web</i> en los resultados orgánicos de los motores de búsqueda mediante el uso de palabras clave, optimización de contenido y estructura web.                
           .py-3.py-md-4(titulo="SEM (<i>Search Engine Marketing</i>)")
             .row.align-items-center
               .col-md-5.mb-4.mb-md-0
@@ -62,7 +62,7 @@
                   img(src='@/assets/curso/temas/t5/tarjeta01_1.png')
               .col-md-6
                 h4 SEM (<i>Search Engine Marketing</i>)
-                p Consiste en la promoción de sitios web mediante anuncios pagados en motores de búsqueda.                
+                p Consiste en la promoción de sitios <i>web</i> mediante anuncios pagados en motores de búsqueda.                
       p(data-aos="fade-left") Estas estrategias permiten aumentar el tráfico hacia las plataformas digitales y mejorar el posicionamiento de productos o servicios en el mercado.
       Separador
       //- Inicio Tema5.2
@@ -108,7 +108,7 @@
                     .col-lg-3.order-lg-1.d-none.d-lg-block
                         figure
                           img(src='@/assets/curso/temas/t5/img2.png', style="width: 450px", data-aos="zoom-in").m-auto
-            p Estas características permiten a las organizaciones adaptar sus estrategias y mejorar la relación con sus clientes.
+      p Estas características permiten a las organizaciones adaptar sus estrategias y mejorar la relación con sus clientes.
             //- Fin Carrusel
       //- Título con imagen
       .bg-full-width.mt-5

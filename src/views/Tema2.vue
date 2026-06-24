@@ -25,29 +25,29 @@
             LineaTiempoC.color-acento-contenido(text-small)
               .row.align-items-center(titulo="1990-1999")
                 .col-md-7.mb-4.mb-md-0
-                  h4.ps-5 Etapa inicial:
-                  p.ps-5  uso de páginas web básicas y catálogos digitales..
+                  h4.ps-5 Etapa inicial
+                  p.ps-5  Uso de páginas <i>web</i> básicas y catálogos digitales..
                 .col-md-5
                   figure
                     img(src='@/assets/curso/temas/t2/tarjeta01_1.png')
               .row.align-items-center(titulo="2000-2009")
                 .col-md-7.mb-4.mb-md-0
-                  h4.ps-5 Etapa de crecimiento:
-                  p.ps-5  incorporación de sistemas de pago en línea y mejora en la seguridad..
+                  h4.ps-5 Etapa de crecimiento
+                  p.ps-5  Incorporación de sistemas de pago en línea y mejora en la seguridad..
                 .col-md-5
                   figure
                     img(src='@/assets/curso/temas/t2/tarjeta01_2.png')              
               .row.align-items-center(titulo="2010-2019")
                 .col-md-7.mb-4.mb-md-0
-                  h4.ps-5 Etapa de consolidación:
-                  p.ps-5  integración de plataformas completas de comercio electrónico y logística..
+                  h4.ps-5 Etapa de consolidación
+                  p.ps-5  Integración de plataformas completas de comercio electrónico y logística..
                 .col-md-5
                   figure
                     img(src='@/assets/curso/temas/t2/tarjeta01_3.png')              
               .row.align-items-center(titulo="2020 en adelante")
                 .col-md-7.mb-4.mb-md-0
-                  h4.ps-5 Etapa actual:
-                  p.ps-5  uso de tecnologías avanzadas como inteligencia artificial, big data y automatización..
+                  h4.ps-5 Etapa actual
+                  p.ps-5  Uso de tecnologías avanzadas como inteligencia artificial, big data y automatización..
                 .col-md-5
                   figure
                     img(src='@/assets/curso/temas/t2/tarjeta01_4.png')
@@ -80,33 +80,38 @@
       p(data-aos="fade-left") Además de las tendencias mencionadas, existen tecnologías clave que están transformando el mercado digital. Estas son:
       .row.bg-fondo-1(data-aos="fade-left")
         .col-12
-          .p-2
-            //- Carrusel
-            .bg-full-width
-              .px-4.px-md-5.pb-md-3             
-                .carousel-bg
-                  .row.justify-content-center.align-items-center
-                    .col-lg-9.mb-3.mb-lg-0.order-lg-1
-                      SlyderF(columnas="col-xl-6 col-lg-6")
-                        .bg-color-18.tarjeta.p-4.h-100.shadow-app.text-center.bordes.d-flex.flex-column.align-items-center
-                          img(src='@/assets/curso/temas/t2/tarjeta02_1.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
+          .p-2            
+            //- Carrusel            
+            .px-4.px-md-5.pb-md-3             
+              .carousel-bg
+                .row.justify-content-center.mb-5.align-items-center
+                  .col-lg-9.mb-3.mb-lg-0.order-lg-1
+                    //- FIXED: Attached .circl-arrow class and specified mobile/tablet breakpoints
+                    SlyderF.circl-arrow(columnas="col-12 col-md-6 col-lg-6 col-xl-6")
+                      .bg-color-4.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4
+                        img(src='@/assets/curso/temas/t2/tarjeta02_1.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
+                        .p-4
                           h4.card-title.text-center.mb-4 Inteligencia artificial (IA)
-                          p Permite personalizar la experiencia del usuario mediante recomendaciones automatizadas.
-                        .bg-color-18.tarjeta.p-4.h-100.shadow-app.text-center.bordes.d-flex.flex-column.align-items-center
-                          img(src='@/assets/curso/temas/t2/tarjeta02_2.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
+                          p.text-center Permite personalizar la experiencia del usuario mediante recomendaciones automatizadas.
+                      .bg-color-4.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4
+                        img(src='@/assets/curso/temas/t2/tarjeta02_2.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
+                        .p-4
                           h4.card-title.text-center.mb-4 <i>Big Data</i>
-                          p Facilita el análisis de grandes volúmenes de información para la toma de decisiones.
-                        .bg-color-18.tarjeta.p-4.h-100.shadow-app.text-center.bordes.d-flex.flex-column.align-items-center
-                          img(src='@/assets/curso/temas/t2/tarjeta02_3.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
+                          p.text-center Facilita el análisis de grandes volúmenes de información para la toma de decisiones.
+                      .bg-color-4.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4
+                        img(src='@/assets/curso/temas/t2/tarjeta02_3.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
+                        .p-4
                           h4.card-title.text-center.mb-4 SEO y SEM
-                          p Estrategias para posicionar productos en motores de búsqueda.
-                        .bg-color-18.tarjeta.p-4.h-100.shadow-app.text-center.bordes.d-flex.flex-column.align-items-center
-                          img(src='@/assets/curso/temas/t2/tarjeta02_4.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
+                          p.text-center Estrategias para posicionar productos en motores de búsqueda.
+                      .bg-color-4.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4
+                        img(src='@/assets/curso/temas/t2/tarjeta02_4.svg', alt='', style="max-width: 90px; height: 90px; object-fit: contain;").mx-auto.mb-3
+                        .p-4
                           h4.card-title.text-center.mb-4 Automatización del <i>marketing</i>
-                          p Permite enviar contenido personalizado a los usuarios de manera automática.
-                    .col-lg-3.order-lg-2.d-none.d-lg-block
+                          p.text-center Permite enviar contenido personalizado a los usuarios de manera automática.
+                  .col-lg-3.order-lg-2.d-none.d-lg-block
                       figure
-                        img(src='@/assets/curso/temas/t2/img3.png', alt='', style="max-width: 250px", data-aos="zoom-in").m-auto            
+                        img(src='@/assets/curso/temas/t2/img3.png', style="width: 450px", data-aos="zoom-in").m-auto
+            //- Fin Carrusel
       p(data-aos="fade-left") Estas herramientas permiten a las organizaciones optimizar sus estrategias y mejorar su competitividad en el entorno digital.
       Separador
       //- Inicio Tema2.3

@@ -55,8 +55,8 @@
                 h4 Investigación cuantitativa
                 p Se basa en datos numéricos que permiten medir el comportamiento del mercado.
                 p <b>Ejemplo</b>
-                p Número de visitas a una página web o tasa de conversión.
-      p(data-aos="fade-left") Los estudios de mercado emplean herramientas como encuestas digitales, formularios web, análisis de redes sociales y plataformas de analítica, las cuales permiten recopilar información relevante para apoyar la toma de decisiones en los negocios electrónicos.                
+                p Número de visitas a una página <i>web</i> o tasa de conversión.
+      p(data-aos="fade-left") Los estudios de mercado emplean herramientas como encuestas digitales, formularios <i>web</i>, análisis de redes sociales y plataformas de analítica, las cuales permiten recopilar información relevante para apoyar la toma de decisiones en los negocios electrónicos.                
       Separador
       //- Inicio Tema7.2
       .row
@@ -102,7 +102,7 @@
         .col-12
           .p-2
             //- Inicio Tarjetas
-            .row.justify-content-center.mt-5(data-aos="fade-left")
+            .row.justify-content-center.mt-3(data-aos="fade-left")
               .col-12.col-sm-9.col-md-6.col-lg-5.mb-4.d-flex.flex-column
                 .tarjeta.rounded-3.h-100.bg-white.border.overflow-hidden.shadow
                   figure.mb-0
@@ -152,7 +152,7 @@
         .col-12
           .p-2
             //- Inicio Tarjetas
-            .row.justify-content-center.mt-5(data-aos="fade-left")
+            .row.justify-content-center.mt-3(data-aos="fade-left")
               .col-12.col-sm-9.col-md-6.col-lg-5.mb-4.d-flex.flex-column
                 .tarjeta.rounded-3.h-100.bg-white.border.overflow-hidden.shadow
                   figure.mb-0

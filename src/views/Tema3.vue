@@ -41,7 +41,7 @@
                     span Enfoque en la experiencia del usuario.
                   li.d-flex
                     i.fas.fa-circle-right.me-3
-                    span Uso intensivo de marketing digital.
+                    span Uso intensivo de <i>marketing</i> digital.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
@@ -188,7 +188,7 @@
               .col-md-6.mb-4.mb-md-0
                 h4 Tienda en línea 
                 p Consiste en la venta directa de productos o servicios a través de una plataforma digital.
-                p <b>Ejemplo:</b> una empresa que vende productos tecnológicos mediante su página web.
+                p <b>Ejemplo:</b> una empresa que vende productos tecnológicos mediante su página <i>web</i>.
                 p Características
                 ul.lista-ul.color-vinotinto-custom.mb-0
                   li.d-flex
@@ -268,7 +268,7 @@
               .col-md-6
                 h4 Afiliación
                 p Modelo basado en la promoción de productos de terceros a cambio de una comisión.
-                p <b>Ejemplo:</b> sitios web o creadores de contenido que recomiendan productos y reciben ingresos por ventas generadas.
+                p <b>Ejemplo:</b> sitios <i>web</i> o creadores de contenido que recomiendan productos y reciben ingresos por ventas generadas.
                 p Características
                 ul.lista-ul.color-vinotinto-custom.mb-0
                   li.d-flex
@@ -289,6 +289,7 @@
               img.titulo-con-imagen__imagen(src="@/assets/curso/temas/bg/imagen-titulos.svg")
               h3.titulo-con-imagen__texto Estructura de ingresos en los modelos digitales
       //- Título con imagen
+      p(data-aos="fade-left") Cada modelo de negocio digital define su forma de generar ingresos, lo cual es fundamental para su sostenibilidad:
       //- Inicio Tarjetas
       .row.justify-content-center(data-aos="fade-left")
         .col-12.col-sm-9.col-md-6.col-lg-3.mb-4.d-flex.flex-column
@@ -370,7 +371,7 @@
       p(data-aos="fade-left") Las plataformas de comercio electrónico son importantes porque cumplen las siguientes funciones:
       .row.bg-fondo-2
         .col-12
-          .p-2
+          .px-3.py-4
             .row.mb-5.justify-content-center.align-items-stretch
               .col-12.col-sm-9.col-lg-5.order-1.order-lg-1.mb-4.mb-lg-0.d-flex.align-items-center(data-aos="fade-left")
                 figure.mb-0.w-100.text-center
@@ -407,7 +408,7 @@
         .col-12
           .p-2
             //- Inicio Tarjetas
-            .row.justify-content-center.mt-5(data-aos="fade-left")
+            .row.justify-content-center(data-aos="fade-left")
               .col-12.col-sm-9.col-md-6.col-lg-5.mb-4.d-flex.flex-column
                 .tarjeta.rounded-3.h-100.bg-white.border.overflow-hidden.shadow
                   figure.mb-0
@@ -481,7 +482,7 @@
                           img(src='@/assets/curso/temas/t3/tarjeta06_3.png').w-100
                           .p-4
                             h4.card-title.text-center.mb-3 Integración
-                            p.text-center Compatibilidad con sistemas de pago, logística y marketing.
+                            p.text-center Compatibilidad con sistemas de pago, logística y <i>marketing</i>.
                         .bg-color-4.tarjeta.h-100.shadow-app.bordes.overflow-hidden
                           img(src='@/assets/curso/temas/t3/tarjeta06_4.png').w-100
                           .p-4

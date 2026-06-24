@@ -71,7 +71,7 @@
                   img(src="@/assets/curso/temas/t9/tarjeta01_2.png")
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Ejemplo aplicado
-                p Una empresa define que venderá productos tecnológicos en línea, identifica su público objetivo y establece estrategias de marketing digital para posicionarse.
+                p Una empresa define que venderá productos tecnológicos en línea, identifica su público objetivo y establece estrategias de <i>marketing</i> digital para posicionarse.
       p(data-aos="fade-left") Una adecuada planeación permite reducir riesgos, optimizar recursos y establecer una base sólida para el desarrollo del negocio electrónico. De esta manera, se facilita la organización de las actividades y se favorece una implementación más eficiente y sostenible.                
       Separador
       //- Inicio Tema9.3
@@ -83,7 +83,7 @@
         .col-12
           .p-2
             //- Inicio Tarjetas
-            .row.justify-content-center.mt-5(data-aos="fade-left")
+            .row.justify-content-center.mt-3(data-aos="fade-left")
               .col-12.col-sm-9.col-md-6.col-lg-5.mb-4.d-flex.flex-column
                 .tarjeta.rounded-3.h-100.bg-white.border.overflow-hidden.shadow
                   figure.mb-0
@@ -176,7 +176,7 @@
                     span Activación de medios de pago.
                   li.d-flex
                     i.fas.fa-circle-right.me-3
-                    span Inicio de campañas de marketing.
+                    span Inicio de campañas de <i>marketing</i>.
                   li.d-flex
                     i.fas.fa-circle-right.me-3
                     span Gestión de pedidos y atención al cliente.

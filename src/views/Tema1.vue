@@ -39,7 +39,7 @@
                 ul.lista-ul.color-vinotinto-custom.mb-0
                   li.d-flex
                     i.fas.fa-circle-right.me-3
-                    span Sitios web o aplicaciones.
+                    span Sitios <i>web</i> o aplicaciones.
                   li.d-flex
                     i.fas.fa-circle-right.me-3
                     span Medios de pago electrónicos.
@@ -184,16 +184,16 @@
       .row
         #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 1.3 Diferencias entre comercio y negocio electrónico
-      .bloque-texto-g.bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
+      .bloque-texto-g.bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t1/img3.png')})` }")
         .bloque-texto-g__texto.p-4
           p.mb-0 Aunque el comercio electrónico y el negocio electrónico suelen confundirse, presentan diferencias importantes. El comercio electrónico se enfoca en la compra y venta de productos o servicios mediante medios digitales. En cambio, el negocio electrónico abarca todos los procesos de la organización apoyados en tecnologías digitales, incluyendo gestión administrativa, logística y comunicación. En este sentido, el comercio electrónico hace parte del negocio electrónico, el cual tiene un alcance más amplio dentro del entorno empresarial. 
       p.mb-5(data-aos="fade-left") La siguiente tabla presenta una comparación entre el comercio electrónico y el negocio electrónico, destacando sus principales diferencias en aspectos como enfoque, alcance, objetivo y uso de la tecnología.
       //- Inicio Tabla
-      .row.bg-fondo-2
+      .row.bg-fondo-2(data-aos="fade-left")
         .col-12
-          .p-2
+          .p-2   
             .row.justify-content-center.mb-5(data-aos="fade-left")
               .col-lg-8.col-md-auto
                 .titulo-sexto.color-acento-contenido.mb-3
@@ -227,7 +227,7 @@
                         td Ejemplo
                         td Tienda virtual
                         td Empresa digitalizada
-            //- FinTabla
+                  //- FinTabla
       p(data-aos="fade-left") Esta comparación permite diferenciar claramente el alcance de cada concepto dentro del entorno digital.
       Separador
       //- Inicio Tema1.5
@@ -290,7 +290,7 @@
               img(src='@/assets/curso/temas/t1/tarjeta03_1.png', alt='').w-100
             .p-4.d-flex.flex-column.justify-content-between.h-100
               div
-                h4.card-title.text-center.mb-4 Tráfico web
+                h4.card-title.text-center.mb-4 Tráfico <i>web</i>
                 p.text-center.mb-0 Cantidad de usuarios que visitan una plataforma digital.
         .col-12.col-sm-9.col-md-6.col-lg-3.mb-4.d-flex.flex-column
           .tarjeta.rounded-3.h-100.bg-white.border.overflow-hidden.shadow

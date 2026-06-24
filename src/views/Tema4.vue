@@ -12,13 +12,12 @@
       .row
         #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 4.1 Infraestructura tecnológica
-      p(data-aos="fade-left") La infraestructura tecnológica constituye la base del comercio electrónico, ya que soporta todas las operaciones digitales del negocio. Incluye los recursos físicos y lógicos necesarios para el almacenamiento, procesamiento y transmisión de la información. Los principales componentes y elementos fundamentales. 
-      p(data-aos="fade-left") Los principales tipos de plataformas son:
+      p(data-aos="fade-left") La infraestructura tecnológica constituye la base del comercio electrónico, ya que soporta todas las operaciones digitales del negocio. Incluye los recursos físicos y lógicos necesarios para el almacenamiento, procesamiento y transmisión de la información. Los principales componentes y elementos fundamentales.       
       .row.bg-fondo-2
         .col-12
           .p-2
             //- Inicio Tarjetas
-            .row.justify-content-center.mt-5(data-aos="fade-left")
+            .row.justify-content-center.mt-3(data-aos="fade-left")
               .col-12.col-sm-9.col-md-6.col-lg-5.mb-4.d-flex.flex-column
                 .tarjeta.rounded-3.h-100.bg-white.border.overflow-hidden.shadow
                   figure.mb-0
@@ -29,7 +28,7 @@
                       ul.lista-ul.color-vinotinto-custom.mb-0
                         li.d-flex
                           i.fas.fa-circle-right.me-3
-                          span Servidores web y de aplicaciones
+                          span Servidores <i>web</i> y de aplicaciones
                         li.d-flex
                           i.fas.fa-circle-right.me-3
                           span Bases de datos
@@ -70,7 +69,7 @@
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t4/img.png')})` }")
         .bloque-texto-g__texto.p-4
           h4 Ejemplo aplicado:<br><br>
-          p.mb-0 Una empresa que comercializa productos en línea necesita contratar un servicio de hosting para alojar su página web, implementar una base de datos para gestionar productos y clientes, y contar con una conexión estable a internet para garantizar el acceso continuo.
+          p.mb-0 Una empresa que comercializa productos en línea necesita contratar un servicio de <i>hosting</i> para alojar su página <i>web</i>, implementar una base de datos para gestionar productos y clientes, y contar con una conexión estable a internet para garantizar el acceso continuo.
       //- Título con imagen
       .bg-full-width.mt-5
         .px-4.px-md-5.pb-md-3
@@ -89,7 +88,7 @@
             .p-4.d-flex.flex-column.justify-content-between.h-100
               div
                 h4.card-title.text-center.mb-4 <i>Hosting</i> compartido
-                p.text-center Varios sitios web comparten un mismo servidor, ideal para proyectos pequeños.
+                p.text-center Varios sitios <i>web</i> comparten un mismo servidor, ideal para proyectos pequeños.
         .col-12.col-sm-9.col-md-6.col-lg-4.mb-4.d-flex.flex-column
           .tarjeta.rounded-3.h-100.bg-white.border.overflow-hidden.shadow
             figure.mb-0
@@ -127,7 +126,7 @@
                 ul.lista-ul.color-vinotinto-custom.mb-0
                   li.d-flex
                     i.fas.fa-circle-right.me-3
-                    span Sitios web de comercio electrónico.
+                    span Sitios <i>web</i> de comercio electrónico.
                   li.d-flex
                     i.fas.fa-circle-right.me-3
                     span Aplicaciones móviles
@@ -177,10 +176,11 @@
                     i.fas.fa-circle-right.me-3
                     span Integración con sistemas de pago
       //- Fin Slideshow
+      p.mt-5(data-aos="fadae-left") Para facilitar la comprensión del tema, se presenta el siguiente ejemplo.
       .row.bg-fondo-3
         .col-12
           .p-2
-            .row.mb-5.justify-content-center.align-items-stretch
+            .row.mb-5.justify-content-center.align-items-stretch              
               .col-12.col-sm-9.col-lg-5.order-1.order-lg-1.mb-4.mb-lg-0.d-flex.align-items-center(data-aos="fade-left")
                 figure.mb-0.w-100.text-center
                   img(src='@/assets/curso/temas/t4/img1.png' alt='' style="width: 500px").img-fluid.m-auto
@@ -201,7 +201,7 @@
         .col-12
           .p-2
             //- Inicio Tarjetas
-            .row.justify-content-center.mt-5(data-aos="fade-left")
+            .row.justify-content-center.mt-3(data-aos="fade-left")
               .col-12.col-sm-9.col-md-6.col-lg-4.mb-4.d-flex.flex-column
                 .tarjeta.rounded-3.h-100.bg-white.border.overflow-hidden.shadow
                   figure.mb-0
@@ -209,7 +209,7 @@
                   .p-4.d-flex.flex-column.justify-content-between.h-100
                     div
                       h4.card-title.text-center.mb-4 UX (<i>User Experience</i>)
-                      p Se enfoca en la facilidad de uso, navegación y satisfacción del usuario.
+                      p.text-center Se enfoca en la facilidad de uso, navegación y satisfacción del usuario.
               .col-12.col-sm-9.col-md-6.col-lg-4.mb-4.d-flex.flex-column
                 .tarjeta.rounded-3.h-100.bg-white.border.overflow-hidden.shadow
                   figure.mb-0
@@ -217,7 +217,7 @@
                   .p-4.d-flex.flex-column.justify-content-between.h-100
                     div
                       h4.card-title.text-center.mb-4 UI (<i>User Interface</i>)
-                      p Corresponde al diseño visual de la plataforma, incluyendo colores, tipografía y estructura.                      
+                      p.text-center Corresponde al diseño visual de la plataforma, incluyendo colores, tipografía y estructura.                      
                 //- Fin Tarjetas
       p(data-aos="fade-left") Una plataforma bien diseñada mejora la interacción del usuario, incrementa la tasa de conversión y reduce el abandono de compras.                
       Separador
@@ -308,7 +308,7 @@
               .lista-ol--cuadro__vineta
                 span 4
               | Se confirma el pago y se genera la orden de compra.
-      p(data-aos="fade-left") Este proceso garantiza la seguridad, validación y registro de cada transacción realizada en la plataforma digital.
+      p.mt-3(data-aos="fade-left") Este proceso garantiza la seguridad, validación y registro de cada transacción realizada en la plataforma digital.
       Separador
       //- Inicio Tema4.4
       .row

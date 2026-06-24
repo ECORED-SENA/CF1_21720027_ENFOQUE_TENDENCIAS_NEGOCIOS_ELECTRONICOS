@@ -161,7 +161,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Disminución del marketing digital.',
+              texto: 'Disminución del <i>marketing</i> digital.',
               esCorrecta: false,
             },
             {

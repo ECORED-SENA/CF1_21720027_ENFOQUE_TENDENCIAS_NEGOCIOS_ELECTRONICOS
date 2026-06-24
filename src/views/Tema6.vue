@@ -226,7 +226,7 @@
               span Uso de datos para personalización
             li.d-flex
               i.fas.fa-circle-right.me-3
-              span Estrategias de marketing digital
+              span Estrategias de <i>marketing</i> digital
             li.d-flex
               i.fas.fa-circle-right.me-3
               span Optimización de procesos

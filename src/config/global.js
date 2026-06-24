@@ -445,7 +445,7 @@ export default {
     {
       termino: 'SEO',
       significado:
-        'Estrategia de optimización utilizada para mejorar el posicionamiento de un sitio web en motores de búsqueda.',
+        'Estrategia de optimización utilizada para mejorar el posicionamiento de un sitio <i>web</i> en motores de búsqueda.',
     },
     {
       termino: 'Transformación digital',
