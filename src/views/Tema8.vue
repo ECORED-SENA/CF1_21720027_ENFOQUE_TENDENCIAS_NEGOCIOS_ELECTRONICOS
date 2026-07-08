@@ -42,7 +42,7 @@
                           img(src='@/assets/curso/temas/t8/tarjeta01_4.png').w-100
                           .p-4
                             h4.card-title.text-center.mb-3 Requerimientos estratégicos
-                            p.text-center Se enfocan en la planificación del negocio, definición de objetivos y posicionamiento en el mercado..
+                            p.text-center Se enfocan en la planificación del negocio, definición de objetivos y posicionamiento en el mercado.
                     .col-lg-3.order-lg-1.d-none.d-lg-block
                         figure
                           img(src='@/assets/curso/temas/t8/img1.png', style="width: 450px", data-aos="zoom-in").m-auto            
@@ -96,13 +96,13 @@
             ul.lista-ul.color-vinotinto-custom.mb-0
               li.d-flex
                 i.fas.fa-circle-right.me-3
-                span Garantizar la disponibilidad del servicio
+                span Garantizar la disponibilidad del servicio.
               li.d-flex
                 i.fas.fa-circle-right.me-3
-                span Proteger la información del usuario
+                span Proteger la información del usuario.
               li.d-flex
                 i.fas.fa-circle-right.me-3
-                span Facilitar la operación del negocio      
+                span Facilitar la operación del negocio.
       //- Título con imagen
       .bg-full-width.mt-5
         .px-4.px-md-5.pb-md-3
@@ -181,13 +181,13 @@
                       ul.lista-ul.color-vinotinto-custom.mb-0
                         li.d-flex
                           i.fas.fa-circle-right.me-3
-                          span Organizar las actividades del negocio
+                          span Organizar las actividades del negocio.
                         li.d-flex
                           i.fas.fa-circle-right.me-3
-                          span Mejorar la eficiencia operativa
+                          span Mejorar la eficiencia operativa.
                         li.d-flex
                           i.fas.fa-circle-right.me-3
-                          span Mejorar la eficiencia operativa
+                          span Mejorar la eficiencia operativa.
                 //- Fin Tarjetas
       p(data-aos="fade-right") Las organizaciones deben contar con personal capacitado en herramientas digitales, <i>marketing</i> y gestión tecnológica para garantizar el éxito del negocio.                
       Separador
@@ -237,17 +237,17 @@
                 figure.mb-0.w-100.text-center
                   img(src='@/assets/curso/temas/t8/img3.png' alt='' style="width: 500px").img-fluid.m-auto
               .col-12.col-lg-5.order-2.order-lg-1.bg-color-7.p-4.d-flex.flex-column.justify-content-center(data-aos="fade-right")
-                p Las políticas organizacionales permiten::
+                p Las políticas organizacionales permiten:
                 ul.lista-ul.color-vinotinto-custom.mb-0
                   li.d-flex.mt-3
                     i.fas.fa-circle-right.me-3
-                    span Establecer normas claras de operación
+                    span Establecer normas claras de operación.
                   li.d-flex.mt-3
                     i.fas.fa-circle-right.me-3
-                    span Generar confianza en los usuarios
+                    span Generar confianza en los usuarios.
                   li.d-flex.mt-3
                     i.fas.fa-circle-right.me-3
-                    span Cumplir con regulaciones legales
+                    span Cumplir con regulaciones legales.
                 p.mt-3 Las políticas deben alinearse con las normativas legales vigentes en protección de datos y comercio electrónico.
       Separador
       //- Inicio Tema8.5
@@ -268,16 +268,16 @@
                 ul.lista-ul.color-vinotinto-custom.mb-0
                   li.d-flex
                     i.fas.fa-circle-right.me-3
-                    span Recursos tecnológicos
+                    span Recursos tecnológicos.
                   li.d-flex
                     i.fas.fa-circle-right.me-3
-                    span Recursos humanos
+                    span Recursos humanos.
                   li.d-flex
                     i.fas.fa-circle-right.me-3
-                    span Recursos financieros
+                    span Recursos financieros.
                   li.d-flex
                     i.fas.fa-circle-right.me-3
-                    span Recursos informativos
+                    span Recursos informativos.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
@@ -314,7 +314,7 @@
       //- Pestanas horizontales
       .container.tarjeta.tarjeta--blanca.p-4.p-md-5(data-aos="fade-right")
         TabsC.color-acento-contenido.mt-1
-          .py-3.py-md-4(titulo="Requerimientos técnicos")
+          .py-3.py-md-4(titulo="Principales aplicaciones")
             .row.align-items-center
               .col-md-5
                 figure

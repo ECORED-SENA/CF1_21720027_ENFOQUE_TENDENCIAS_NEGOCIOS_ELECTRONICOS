@@ -26,28 +26,28 @@
               .row.align-items-center(titulo="1990-1999")
                 .col-md-7.mb-4.mb-md-0
                   h4.ps-5 Etapa inicial
-                  p.ps-5  Uso de páginas <i>web</i> básicas y catálogos digitales..
+                  p.ps-5  Uso de páginas <i>web</i> básicas y catálogos digitales.
                 .col-md-5
                   figure
                     img(src='@/assets/curso/temas/t2/tarjeta01_1.png')
               .row.align-items-center(titulo="2000-2009")
                 .col-md-7.mb-4.mb-md-0
                   h4.ps-5 Etapa de crecimiento
-                  p.ps-5  Incorporación de sistemas de pago en línea y mejora en la seguridad..
+                  p.ps-5  Incorporación de sistemas de pago en línea y mejora en la seguridad.
                 .col-md-5
                   figure
                     img(src='@/assets/curso/temas/t2/tarjeta01_2.png')              
               .row.align-items-center(titulo="2010-2019")
                 .col-md-7.mb-4.mb-md-0
                   h4.ps-5 Etapa de consolidación
-                  p.ps-5  Integración de plataformas completas de comercio electrónico y logística..
+                  p.ps-5  Integración de plataformas completas de comercio electrónico y logística.
                 .col-md-5
                   figure
                     img(src='@/assets/curso/temas/t2/tarjeta01_3.png')              
               .row.align-items-center(titulo="2020 en adelante")
                 .col-md-7.mb-4.mb-md-0
                   h4.ps-5 Etapa actual
-                  p.ps-5  Uso de tecnologías avanzadas como inteligencia artificial, big data y automatización..
+                  p.ps-5  Uso de tecnologías avanzadas como inteligencia artificial, <i>big data</i> y automatización.
                 .col-md-5
                   figure
                     img(src='@/assets/curso/temas/t2/tarjeta01_4.png')

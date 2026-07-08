@@ -13,7 +13,7 @@
         #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 1.1 Definición de comercio electrónico
       //- Inicio Accordion
-      p(data-aos="fade-left") El comercio electrónico corresponde al conjunto de transacciones comerciales realizadas mediante internet y plataformas digitales, permitiendo la compra y venta de productos o servicios de forma rápida, segura y accesible. A continuación, se detallará sus características, aspectos fundamentales, beneficios y elementos técnicos.
+      p(data-aos="fade-left") El comercio electrónico corresponde al conjunto de transacciones comerciales realizadas mediante internet y plataformas digitales, permitiendo la compra y venta de productos o servicios de forma rápida, segura y accesible. A continuación, se detallarán sus características, aspectos fundamentales, beneficios y elementos técnicos.
       .bg--img_03.mt-5
       .row.justify-content-center
         .col-lg-3 
@@ -71,10 +71,10 @@
                 ul.lista-ul.color-vinotinto-custom.mb-0
                   li.d-flex
                     i.fas.fa-circle-right.me-3
-                    span <b>Frontend (interfaz de usuario):</b> corresponde a la parte visible de la plataforma, donde el usuario navega, consulta productos y realiza compras.
+                    span <b><i>Frontend</i> (interfaz de usuario):</b> corresponde a la parte visible de la plataforma, donde el usuario navega, consulta productos y realiza compras.
                   li.d-flex
                     i.fas.fa-circle-right.me-3
-                    span <b>Backend (servidor):</b> se encarga de procesar la información, gestionar las operaciones y conectar los diferentes componentes del sistema.
+                    span <b><i>Backend</i> (servidor):</b> se encarga de procesar la información, gestionar las operaciones y conectar los diferentes componentes del sistema.
                   li.d-flex
                     i.fas.fa-circle-right.me-3
                     span <b>Base de datos:</b> almacena la información relacionada con productos, clientes, pedidos y transacciones.
@@ -230,10 +230,10 @@
                   //- FinTabla
       p(data-aos="fade-left") Esta comparación permite diferenciar claramente el alcance de cada concepto dentro del entorno digital.
       Separador
-      //- Inicio Tema1.5
+      //- Inicio Tema1.4
       .row
-        #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 1.5 Importancia en la economía digital
+        #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2 1.4 Importancia en la economía digital
       p(data-aos="fade-left") El comercio electrónico cumple un papel fundamental en la economía digital, ya que facilita el intercambio de bienes y servicios a través de medios digitales, al tiempo que fortalece la innovación, la competitividad y el crecimiento económico. Además, su importancia radica en que permite:
       .row.bg-fondo-1
         .col-12
@@ -315,7 +315,7 @@
             .p-4.d-flex.flex-column.justify-content-between.h-100
               div
                 h4.card-title.text-center.mb-4 Alcance de mercado
-                p.text-center.mb-0 expansión a nuevos segmentos o regiones.
+                p.text-center.mb-0 Expansión a nuevos segmentos o regiones.
           //- Fin Tarjetas
       p(data-aos="fade-right") El análisis de estos indicadores permite a las organizaciones tomar decisiones estratégicas y mejorar su desempeño en el entorno digital.
 

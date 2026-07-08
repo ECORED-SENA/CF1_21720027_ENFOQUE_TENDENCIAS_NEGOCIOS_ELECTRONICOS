@@ -22,7 +22,7 @@ export default {
       tema: 'Evaluación de conocimientos sobre comercio electrónico y negocio digital.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Evaluar la comprensión de los conceptos fundamentales del comercio electrónico, los modelos de negocio digital, el entorno digital, los requerimientos y los procesos de implementación, mediante la resolución de un cuestionario de selección múltiple que permita verificar el aprendizaje adquirido por el aprendiz.',
+        '<b>Objetivo:</b> evaluar la comprensión de los conceptos fundamentales del comercio electrónico, los modelos de negocio digital, el entorno digital, los requerimientos y los procesos de implementación, mediante la resolución de un cuestionario de selección múltiple que permita verificar el aprendizaje adquirido por el aprendiz.',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

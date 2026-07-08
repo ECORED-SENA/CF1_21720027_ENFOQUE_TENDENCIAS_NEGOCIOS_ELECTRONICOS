@@ -84,7 +84,7 @@
       //- Pestanas horizontales
       .container.tarjeta.tarjeta--blanca.p-4.p-md-5(data-aos="fade-right")
         TabsC.color-acento-contenido.mt-1
-          .py-3.py-md-4(titulo="Requerimientos técnicos")
+          .py-3.py-md-4(titulo="Aportes")
             .row.align-items-center
               .col-md-5
                 figure

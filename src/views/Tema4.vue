@@ -314,7 +314,7 @@
       .row
         #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 4.4 Seguridad en transacciones
-      p La seguridad es un componente crítico en el comercio electrónico, ya que protege la información sensible de los usuarios y garantiza la confiabilidad del sistema. A continuación, se presentarán los mecanismos que incluye y ejemplo aplicado para mayor comprensión el tema:
+      p La seguridad es un componente crítico en el comercio electrónico, ya que protege la información sensible de los usuarios y garantiza la confiabilidad del sistema. A continuación, se presentarán los mecanismos que incluye y un ejemplo aplicado para mayor comprensión del tema:
       //- Pestanas horizontales
       .container.tarjeta.tarjeta--blanca.p-4.p-md-5(data-aos="fade-right")
         TabsC.color-acento-contenido.mt-1
@@ -407,7 +407,7 @@
       .row
         #t_4_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 4.5 Logística y distribución
-      p(data-aos="fade-left") Para este tema se invita a reproducir el siguiente video que explicará cómo la logística y la distribución permiten gestionar pedidos, entregas y devoluciones en el comercio electrónico, garantizando una mejor experiencia para el cliente y mayor eficiencia en el negocio digital.    
+      p(data-aos="fade-left") Para este tema se invita a reproducir el siguiente video, que explicará cómo la logística y la distribución permiten gestionar pedidos, entregas y devoluciones en el comercio electrónico, garantizando una mejor experiencia para el cliente y mayor eficiencia en el negocio digital.    
       //- Inicio Video
       figure.mb-5(data-aos="fade-down")
         .video

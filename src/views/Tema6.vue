@@ -43,7 +43,7 @@
       .row
         #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 6.2 Beneficios para las empresas
-      P(data-aos="fade-left") El comercio electrónico ofrece múltiples beneficios para las organizaciones, facilitando la gestión de sus operaciones y el acceso a nuevos mercados. En esta sección, se conocerán las ventajas, un ejemplo aplicado para comprensión del tema y los indicadores de rendimientos empresarial.
+      P(data-aos="fade-left") El comercio electrónico ofrece múltiples beneficios para las organizaciones, facilitando la gestión de sus operaciones y el acceso a nuevos mercados. En esta sección, se conocerán las ventajas, un ejemplo aplicado para comprensión del tema y los indicadores de rendimientos empresariales.
       //- Slideshow
       .bg-full-width.bg-fondo-slider.mb-3
         .p-4.p-md-5

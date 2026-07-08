@@ -99,7 +99,7 @@
                           img(src='@/assets/curso/temas/t5/tarjeta02_4.png').w-100
                           .p-4
                             h4.card-title.text-center.mb-3 Inmediatez
-                            p.text-center Respuesta rápida a las necesidades del usuario
+                            p.text-center Respuesta rápida a las necesidades del usuario.
                         .bg-color-4.tarjeta.h-100.shadow-app.bordes.overflow-hidden
                           img(src='@/assets/curso/temas/t5/tarjeta02_5.png').w-100
                           .p-4
@@ -194,7 +194,7 @@
                   img(src="@/assets/curso/temas/t5/tarjeta03_3.png")
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Ejemplo aplicado
-                p Una empresa publica contenido sobre sus productos en redes sociales, interactúa con los usuarios mediante comentarios y mensajes, y dirige a los clientes hacia su tienda virtual para realizar compras.                
+                p Una empresa pública contenido sobre sus productos en redes sociales, interactúa con los usuarios mediante comentarios y mensajes, y dirige a los clientes hacia su tienda virtual para realizar compras.                
       //- Fin Slideshow      
       p(data-aos="fade-left") El uso adecuado de las redes sociales permite aumentar la visibilidad del negocio, mejorar la relación con los clientes y fortalecer la presencia digital de la empresa.
       //- Título con imagen

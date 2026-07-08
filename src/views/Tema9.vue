@@ -160,7 +160,7 @@
       //- Pestanas horizontales
       .container.tarjeta.tarjeta--blanca.p-4.p-md-5(data-aos="fade-right")
         TabsC.color-acento-contenido.mt-1
-          .py-3.py-md-4(titulo="Requerimientos técnicos")
+          .py-3.py-md-4(titulo="Incluye")
             .row.align-items-center
               .col-md-5
                 figure
@@ -244,16 +244,16 @@
             ul.lista-ul.color-vinotinto-custom.mb-0
               li.d-flex
                 i.fas.fa-circle-right.me-3
-                span Número de ventas
+                span Número de ventas.
               li.d-flex
                 i.fas.fa-circle-right.me-3
-                span Tráfico <i>web</i>
+                span Tráfico <i>web.</i>
               li.d-flex
                 i.fas.fa-circle-right.me-3
-                span Conversión de clientes
+                span Conversión de clientes.
               li.d-flex
                 i.fas.fa-circle-right.me-3
-                span Satisfacción del usuario
+                span Satisfacción del usuario.
 </template>
 
 <script>
